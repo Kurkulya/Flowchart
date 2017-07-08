@@ -1,0 +1,10 @@
+04:49:24: Creating resource group General
+04:49:24: Creating resource group Internal
+04:49:24: Creating resource group Autodetect
+04:49:24: Registering ResourceManager for type Material
+04:49:24: Registering ResourceManager for type Skeleton
+04:49:25: Registering ResourceManager for type Mesh
+04:49:25: OGRE EXCEPTION(7:InternalErrorException): Unexpected error while reading file E:\Programming\OGRE\bin\Release\resources.cfg in OgreMeshUpgrade at ..\..\..\..\..\Tools\MeshUpgrader\src\main.cpp (line 993)
+04:49:25: Unregistering ResourceManager for type Mesh
+04:49:25: Unregistering ResourceManager for type Skeleton
+04:49:25: Unregistering ResourceManager for type Material
